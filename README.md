@@ -1,4 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js v15 Project Starter Template
+
+A modern **Next.js v15 starter template** built with **Tailwind CSS** and **Shadcn UI**, designed to use the **dark theme as the default** mode. This template is perfect for starting new project with initial setup is done.
+
+## Features
+
+- **Dark Theme First**: The dark theme is set as primary mode.
+- **Tailwind CSS**: Fully integrated utility-first CSS framework for rapid UI development.
+- **Shadcn UI**: Pre-designed, accessible components for consistent design.
+- **App Router**: Leverages the latest Next.js features, including server and client components.
+- **Theme Persistence**: Remembers user preferences for dark or light mode using `localStorage`.
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ahmadiqbalbhatti/nextjs-dark-theme-starter.git
+
+npm install
+```
 
 ## Getting Started
 
